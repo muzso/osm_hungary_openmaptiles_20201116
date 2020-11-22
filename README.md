@@ -1,6 +1,7 @@
 # OpenMapTiles based mapbox vector tiles (MVT) from OSM data
 
 This was generated from OSM data of Hungary region on 2020-11-16 using the open-source pipeline of OpenMapTiles.
+The files are already gzip compressed, so don't forget to set the proper "Content-Encoding: gzip" header while serving them to the clients.
 
 Copyright mentions:
 
